@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Brain tumor detection using Yolo**
 
-- 🌱 I’m currently learning **React.js, Entrepreneurship strategy, Trading**
+- 🌱 I’m currently learning **Tableau, Entrepreneurship strategy, Trading**
 
-- 👯 I’m looking to collaborate on **Machine learning projects**
+- 👯 I’m looking to work as **Business Analyst**
 
 - 📫 How to reach me **harsitasarma01@gmail.com**
 
