@@ -1,28 +1,170 @@
-![logo](https://github.com/Harsita11/Harsita11/blob/main/Green%20Watercolour%20Opening%20Soon%20Banner.jpg)
-<h3 align="center">Passionate Software Engineer from India, dedicated to creating innovative solutions and exploring new technologies.</h3>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Harsita+%F0%9F%91%8B;Quant+%26+Data+Enthusiast;IT+Graduate+%7C+Gauhati+University+'24;Turning+Data+Into+Decisions" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=harsita11&label=Profile%20Views&color=8A2BE2&style=flat" alt="profile views"/>
+
+</div>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
+
+### 🧭 About Me
+
+I'm a 2024 IT graduate from Gauhati University, building at the intersection of **quantitative research, data analytics, and machine learning.**
+
+```yaml
+🔭 Currently working on:  ML alpha generation models (LightGBM) &
+                          LVR analysis for AMM liquidity providers
+📄 Co-authoring:          IEEE Access paper — Brain Tumor Detection
+                          (YOLO + IBN-MS-CBAM)
+🌱 Currently learning:    Systematic Trading · Quant Research
+🎯 Looking to work in:    Quantitative Research · Software Roles · Product Roles
+📫 Reach me at:           harsitasarma01@gmail.com
+⚡ Fun fact:               I collect textured paper & love Assamese cinema
+```
+
+</td>
+<td width="40%" valign="top" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="260"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🚀 Featured Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**📊 ML Alpha Generation Engine**
+End-to-end quant equity strategy — 12 alpha factors, LightGBM LambdaRank, walk-forward validation, dollar-neutral long-short backtest
+`IC 0.062` · `ICIR 1.10` · `Sharpe 0.86` · `Alpha +3.58%`
+<sub>Python · LightGBM · SQLite · yfinance</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**💰 Finora — AI Personal Finance Platform**
+Multi-currency account tracking, AI receipt scanning, budget alerts, and monthly AI-generated spending insights
+<sub>Next.js 15 · Prisma · PostgreSQL · Gemini AI · Clerk</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**💧 LVR Analysis — AMM Liquidity**
+Loss-Versus-Rebalancing research for DeFi liquidity providers
+<sub>Quant Finance · On-chain Analytics</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**🧠 Brain Tumor Detection (YOLO)**
+IEEE Access paper — domain generalization across MRI datasets via IBN-MS-CBAM
+<sub>YOLO · RT-DETR · Computer Vision</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**📈 Analytics Dashboards**
+HR Analytics, E-commerce Sales & Ria's Store dashboards
+<sub>Power BI · DAX · SQL · Excel</sub>
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🛠️ Skills
+
 <p align="center">
-  <img alt="Hello" width="300" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
-</p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsita11" alt="harsita11" /></a> </p>
-
-- 🔭 I’m currently working on **Brain tumor detection using Yolo**
-
-- 🌱 I’m currently learning **Tableau, Entrepreneurship strategy, Trading**
-
-- 👯 I’m looking to work as **Business Analyst**
-
-- 📫 How to reach me **harsitasarma01@gmail.com**
-
-- ⚡ Fun fact **I collect different textured papers**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/harsita11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsita11" height="30" width="40" /></a>
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,threejs,react,nextjs,postgres,mysql,git,github,vscode,tailwind&perline=7" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<table width="100%">
+<tr>
+<td valign="top" width="33%">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsita11&show_icons=true&locale=en&layout=compact" alt="harsita11" /></p>
+**🤖 ML / AI**
+- Machine Learning (LightGBM)
+- Feature Engineering
+- Walk-Forward Validation
+- Computer Vision (YOLO, CBAM)
+- Model Evaluation & Tuning
+- Claude · ChatGPT · Perplexity
+- Gemini · GitHub Copilot
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsita11&" alt="harsita11" /></p>
+</td>
+<td valign="top" width="33%">
+
+**💻 Tech**
+- Python (Pandas, NumPy)
+- SQL · PostgreSQL · MySQL
+- Java
+- HTML · CSS · JavaScript
+- Three.js (AR/3D)
+- Power BI · DAX · MS Excel
+- Git & GitHub
+
+</td>
+<td valign="top" width="33%">
+
+**📦 Product**
+- Product Thinking & Strategy
+- Data-Driven Decision Making
+- Stakeholder Communication
+- Market & Competitive Research
+- Feature Prioritization
+- Business Problem Framing
+- User-Centric Thinking
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=harsita11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsita11&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harsita11&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=harsita11&theme=algolia&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 📫 Connect
+
+<p align="center">
+<a href="https://linkedin.com/in/harsita11" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:harsitasarma01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<div align="center">
+<sub>"Simple. Clean. Building it anyway."</sub>
+</div>
