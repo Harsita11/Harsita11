@@ -5,6 +5,8 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=harsita11&label=Profile%20Views&color=8A2BE2&style=flat" alt="profile views"/>
+&nbsp;
+<img src="https://img.shields.io/badge/📍-Assam,%20India-A78BFA?style=flat" alt="location"/>
 
 </div>
 
@@ -165,10 +167,6 @@ AI-powered meal planning with pantry scanning, voice cooking assistant, and smar
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=harsita11&theme=onedark&no-frame=true&row=1&column=6&margin-w=8" />
-</p>
-
-<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=harsita11&theme=tokyo-night&hide_border=true" />
 </p>
 
@@ -186,3 +184,5 @@ AI-powered meal planning with pantry scanning, voice cooking assistant, and smar
 <div align="center">
 <sub>"Simple. Clean. Building it anyway."</sub>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
