@@ -22,7 +22,7 @@
 
 ### 🧭 About Me
 
-I'm a 2024 IT graduate from Gauhati University, building at the intersection of **quantitative research, data analytics, and machine learning.**
+I'm an IT Engineer, building at the intersection of **quantitative research, product, and machine learning.**
 
 ```yaml
 🔭 Currently working on:  ML alpha generation models (LightGBM) &
