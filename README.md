@@ -165,7 +165,7 @@ AI-powered meal planning with pantry scanning, voice cooking assistant, and smar
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=harsita11&theme=algolia&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=harsita11&theme=onedark&no-frame=true&row=1&column=6&margin-w=8" />
 </p>
 
 <p align="center">
