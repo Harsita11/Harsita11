@@ -156,8 +156,8 @@ AI-powered meal planning with pantry scanning, voice cooking assistant, and smar
 ### 📊 GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=harsita11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsita11&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=harsita11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harsita11&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -167,6 +167,12 @@ AI-powered meal planning with pantry scanning, voice cooking assistant, and smar
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=harsita11&theme=algolia&no-frame=true&row=1&column=6" />
 </p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harsita11&theme=tokyo-night&hide_border=true" />
+</p>
+
+> **Note:** These widgets pull from public demo servers that occasionally get rate-limited and show as broken images (a known GitHub-wide issue, not specific to your profile). If they don't load consistently, the permanent fix is to [deploy your own instance](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) of github-readme-stats to your own free Vercel account (~5 min setup), then swap the URLs above to point to your instance instead of the shared one.
 
 ---
 
