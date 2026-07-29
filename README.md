@@ -96,16 +96,6 @@ AI-powered meal planning with pantry scanning, voice cooking assistant, and smar
 
 ---
 
-### 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Harsita11/Harsita11/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-> To enable this: create a repo named `Harsita11` (if not already), add a GitHub Action using [`Platane/snk`](https://github.com/Platane/snk) that generates this SVG on a schedule — turns your contribution graph into an animated snake eating your commits.
-
----
-
 ### 💬 Dev Quote of the Moment
 
 <p align="center">
