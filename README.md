@@ -1,6 +1,10 @@
 <div align="center">
+<img src="hero-banner.svg" width="100%" alt="cosmic hero banner"/>
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Harsita+%F0%9F%91%8B;Quant+%26+Data+Enthusiast;IT+Graduate+%7C+Gauhati+University+'24;Turning+Data+Into+Decisions" alt="Typing SVG" />
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=IT+Graduate+%7C+Gauhati+University+'24;Building+ML%2C+Quant+%26+Data+Projects" alt="Typing SVG" />
 
 <br/>
 
@@ -35,6 +39,8 @@ I'm a 2024 IT graduate from Gauhati University, building at the intersection of 
 <td width="40%" valign="top" align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="260"/>
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="260"/>
 
 </td>
 </tr>
@@ -171,6 +177,16 @@ AI-powered meal planning with pantry scanning, voice cooking assistant, and smar
 </p>
 
 > **Note:** These widgets pull from public demo servers that occasionally get rate-limited and show as broken images (a known GitHub-wide issue, not specific to your profile). If they don't load consistently, the permanent fix is to [deploy your own instance](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) of github-readme-stats to your own free Vercel account (~5 min setup), then swap the URLs above to point to your instance instead of the shared one.
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/harsita11/harsita11/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+> **Setup required:** this snake animates your real contribution graph, but it only appears once you add a small GitHub Action to your profile repo. See `snake.yml` below — instructions are in the comments.
 
 ---
 
